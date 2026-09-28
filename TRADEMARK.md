@@ -26,5 +26,4 @@ Sie benötigen keine Erlaubnis von uns, um:
 *   Den unveränderten Original-Code des Projekts zu spiegeln oder unverändert weiterzuverbreiten.
 
 ## 4. Kontakt
-Wenn Sie Fragen zur Nutzung des Namens haben oder eine Ausnahme anfragen möchten, erreichen Sie uns unter: **[Ihre E-Mail-Ad
-resse]**.
+Wenn Sie Fragen zur Nutzung des Namens haben oder eine Ausnahme anfragen möchten, erreichen Sie uns unter: **dev@raspino.org**.
