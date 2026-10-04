@@ -5,8 +5,8 @@
 
 ## 📚 Repositories
 <a href="https://github.com/dsmurph/webpi">WebPi</a>  
-<a href="https://github.com/dsmurph/webpi">gpioV2</a>  
-<a href="https://github.com/dsmurph/webpi">gpiodWrap</a>  
+<a href="https://github.com/dsmurph/gpiov2">gpioV2</a>  
+<a href="https://github.com/dsmurph/gpiodWrap">gpiodWrap</a>  
 <a href="https://github.com/dsmurph/mcp23017" alt="mcp23017">mcp23017</a>
 
 
