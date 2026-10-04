@@ -1,6 +1,6 @@
 # Trademark Policy for Raspino
 
-This project is and will remain 100% open source. The source code is licensed under the **Apache License 2.0**.
+This project is and will remain 100% open source. The source code is licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)**.
 
 The open-source license grants you extensive rights to use, modify, and distribute the source code. However, in accordance with Section 6 of the Apache License 2.0, it does **not grant you any rights to our registered trademark or logo**.
 
