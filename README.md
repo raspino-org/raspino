@@ -4,11 +4,20 @@
 <br>
 
 ## 📚 Repositories
+** Public  
 <a href="https://github.com/dsmurph/webpi">WebPi</a>  
-<a href="https://github.com/dsmurph/gpiov2">gpioV2</a>  
 <a href="https://github.com/dsmurph/gpiodWrap">gpiodWrap</a>  
 <a href="https://github.com/dsmurph/mcp23017" alt="mcp23017">mcp23017</a>
 
+** 🆕 Coming soon  
+<a href="https://github.com/dsmurph/gpiov2">gpioV2</a>  
+<a href="https://github.com/dsmurph/spotipi">spotipi</a>  
+<a href="https://github.com/dsmurph/garagepi">garagepi</a>  
+<a href="https://github.com/dsmurph/radiopi">radiopi</a>  
+<a href="https://github.com/dsmurph/marstekpi">marstekpi</a>  
+<a href="https://github.com/dsmurph/smartctpi">smartctpi</a>  
+<a href="https://github.com/dsmurph/sysmonitorpi">sysmonitorpi</a>  
+<a href="https://github.com/dsmurph/mbscannerpiradiopi">mbscannerpi</a>
 
 
 ## ⚖️ Disclaimer
