@@ -1,29 +1,26 @@
-# Markenrichtlinie / Trademark Policy für Raspino
+## Marken- und Projektschutz (Trademark Notice)
 
-Dieses Projekt ist und bleibt zu 100 % Open Source. Der Quellcode ist unter der **Apache License 2.0** lizenziert. 
-
-Die Open-Source-Lizenz gewährt Ihnen weitreichende Rechte zur Nutzung, Änderung und Verbreitung des Quellcodes. Gemäß Sektion 6 der Apache License 2.0 gewährt sie Ihnen jedoch **keine Rechte an unserem eingetragenen Markennamen oder Logo**.
+**Raspino-Projekt**  
+Die unterliegenden Repositorys der Initiative und deren Quellcode steht unter der **GNU General Public License v3.0 (GPLv3)**. Dies gewährt Ihnen das Recht, den Code frei zu nutzen, zu verändern, zu forken und zu verbreiten – vorausgesetzt, Ihre Modifikationen bleiben ebenfalls Open Source unter der GPLv3.
 
 ---
 
-## 1. Was geschützt ist
-Der Name **"Raspino"** sowie das offizielle Projekt-Logo sind gesetzlich geschützte Markenrechte.
+⚠️ **WICHTIGER HINWEIS ZUM NAMENSSCHUTZ (TRADEMARK)**
 
-## 2. Die wichtigste Regel für Forks (Abspaltungen)
-Sie dürfen den Code dieses Projekts jederzeit forken, kopieren und verändern. Wenn Sie jedoch eine **veränderte Version** des Codes öffentlich verbreiten oder als eigenen Dienst anbieten, gilt:
+Die Open-Source-Lizenz (GPLv3) gewährt Ihnen Rechte am Quellcode, jedoch **keine Rechte an den Marken, Logos oder dem visuellen Branding** des Projekts.
 
-*   **Umbenennungspflicht:** Sie **müssen** Ihrem Projekt einen neuen, eigenen Namen geben. Der Name "Raspino" darf nicht im Produktnamen enthalten sein.
-*   **Logo entfernen:** Das offizielle Logo von Raspino muss aus der Benutzeroberfläche und der Dokumentation entfernt werden.
-*   **Keine Verwechslungsgefahr:** Es darf für Nutzer nicht der Eindruck entstehen, dass Ihre modifizierte Version das offizielle Raspino-Projekt ist, von uns betrieben oder offiziell unterstützt wird.
+Der Begriff **"Raspino"** sowie die dazugehörigen Logos, Designs und Symbole sind geschützte Marken von Kay Donau (Inhaber des Urheber- und Markenrechts).
 
-*Erlaubtes Beispiel:* „Fork-Projekt X – basierend auf dem Quellcode von Raspino“.
-*Nicht erlaubtes Beispiel:* „Raspino Extended“ oder „Raspino für [Plattform]“.
+### Was erlaubt ist (Do's):
+* Sie dürfen den Quellcode für eigene Zwecke anpassen, erweitern und modifizieren.
+* Sie dürfen das Projekt forken, um eigene Ideen umzusetzen.
+* Sie dürfen in Ihrer Dokumentation wahrheitsgemäß erwähnen, dass Ihr Projekt auf dem Code des Raspino-Projekts basiert (z. B. *"Basiert auf den GPIO-Treibern des Raspino-Projekts"*).
 
-## 3. Erlaubte Nutzung des Namens
-Sie benötigen keine Erlaubnis von uns, um:
-*   Wahrheitsgemäß zu erwähnen, dass Ihre eigene Software oder Hardware mit Raspino kompatibel ist (z. B. „Kompatibel mit Raspino“).
-*   In Blogs, Tutorials, Videos, Büchern oder Vorträgen über Raspino zu berichten oder den Namen zu Lehrzwecken zu nutzen.
-*   Den unveränderten Original-Code des Projekts zu spiegeln oder unverändert weiterzuverbreiten.
+### Was NICHT erlaubt ist (Dont's):
+* Sie dürfen eigene Abspaltungen (Forks), modifizierte Versionen oder darauf basierende Hardware-Bundles **nicht unter dem Namen "Raspino"** oder täuschend ähnlichen Namen veröffentlichen, vertreiben oder bewerben.
+* Wenn Sie den Code grundlegend verändern oder eigenständig weitervertreiben, müssen Sie das Projekt umbenennen (Re-Branding).
+* Sie dürfen die geschützten Logos, Web-Assets und Design oder den Namen "Raspino" nicht für kommerziellen Zwecke oder Werbung nutzen, es sei denn, es liegt eine ausdrückliche schriftliche Genehmigung von Kay Donau vor.
+* Es darf beim Endanwender nie der Eindruck entstehen, dass Ihre modifizierte Version eine "offizielle" Version des Raspino-Projekts ist oder von diesem unterstützt wird.
 
-## 4. Kontakt
-Wenn Sie Fragen zur Nutzung des Namens haben oder eine Ausnahme anfragen möchten, erreichen Sie uns unter: **dev@raspino.org**.
+---
+Bei Fragen zur Nutzung des Namens oder für Ausnahmegenehmigungen wenden Sie sich bitte an: **dev@raspino.org**
