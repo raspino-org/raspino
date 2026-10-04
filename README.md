@@ -1,24 +1,38 @@
 <div align="center">
   <img src="/resources/images/raspino.png" alt="Raspino Logo" width="260">
 </div>
-<br>
+<br>  
 
-## 📚 Repositories
-** Public  
-<a href="https://github.com/dsmurph/webpi">WebPi</a>  
-<a href="https://github.com/dsmurph/gpiodWrap">gpiodWrap</a>  
-<a href="https://github.com/dsmurph/mcp23017" alt="mcp23017">mcp23017</a>
+🇩🇪 **C++ auf dem Raspberry Pi, so einfach wie Arduino**
 
-** 🆕 Coming soon  
-<a href="https://github.com/dsmurph/gpiov2">gpioV2</a>  
-<a href="https://github.com/dsmurph/spotipi">spotipi</a>  
-<a href="https://github.com/dsmurph/garagepi">garagepi</a>  
-<a href="https://github.com/dsmurph/radiopi">radiopi</a>  
-<a href="https://github.com/dsmurph/marstekpi">marstekpi</a>  
-<a href="https://github.com/dsmurph/smartctpi">smartctpi</a>  
-<a href="https://github.com/dsmurph/sysmonitorpi">sysmonitorpi</a>  
-<a href="https://github.com/dsmurph/mbscannerpiradiopi">mbscannerpi</a>
+Raspino bildet den Rahmen für unsere Open-Source-Repositories auf GitHub. Wir machen die hardwarenahe Programmierung mit C++ auf dem Raspberry Pi so unkompliziert, direkt und zugänglich, wie du es aus der Mikrocontroller-Welt gewohnt bist.  
 
+
+🇬🇧 **C++ on the Raspberry Pi, as easy as Arduino**  
+
+
+Raspino provides the framework for our open-source repositories on GitHub. We make low-level programming with C++ on the Raspberry Pi as straightforward, direct, and accessible as you're used to from the microcontroller world.
+
+---
+
+## 📚 Raspino Repositories
+**Public**
+- <a href="https://github.com/dsmurph/webpi">WebPi</a>  
+- <a href="https://github.com/dsmurph/gpiodWrap">gpiodWrap</a>  
+- <a href="https://github.com/dsmurph/mcp23017" alt="mcp23017">mcp23017</a>
+
+**Coming soon** 
+- <a href="https://github.com/dsmurph/gpiov2">gpioV2</a>
+- <a href="https://github.com/dsmurph/spotipi">JaroliftPi</a>
+- <a href="https://github.com/dsmurph/spotipi">Spotipi</a>  
+- <a href="https://github.com/dsmurph/garagepi">Garagepi</a>  
+- <a href="https://github.com/dsmurph/radiopi">Radiopi</a>  
+- <a href="https://github.com/dsmurph/marstekpi">Marstekpi</a>  
+- <a href="https://github.com/dsmurph/smartctpi">Smartctpi</a>  
+- <a href="https://github.com/dsmurph/sysmonitorpi">Sysmonitorpi</a>  
+- <a href="https://github.com/dsmurph/mbscannerpiradiopi">Mbscannerpi</a>
+
+---
 
 ## ⚖️ Disclaimer
 ** 🇩🇪 **
