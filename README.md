@@ -38,10 +38,16 @@ Raspino provides the framework for our open-source repositories on GitHub. We ma
 ** 🇩🇪 **
 Raspino ist eine eingetragene Marke. Die Verwendung des Namens unterliegt unseren Markenrichtlinien.
 
-⚠️ Wichtiger Hinweis (Haftungsausschluss): Die Raspino  Open-Source Initiative und seine Repositories steht in keiner Verbindung zur Raspberry Pi Foundation oder Arduino AG. Es handelt sich um eine unabhängige Entwicklung und wird von den genannten Marken weder gesponsert noch unterstützt oder autorisiert. Alle verwendeten Markennamen und Warenzeichen sind Eigentum ihrer jeweiligen Inhaber und dienen hier lediglich Referenz- oder Vergleichszwecken.
+⚠️ Wichtige Hinweise (Haftungsausschluss):
+Die Bereitstellung der Software erfolgt "wie besehen" (as is) und ohne jegliche ausdrückliche oder implizite Gewährleistung. Die Nutzung des Codes und der Hardware-Ansteuerungen erfolgt vollständig auf eigene Gefahr.  
+  
+Die Raspino  Open-Source Initiative und seine Repositories steht in keiner Verbindung zur Raspberry Pi Foundation oder Arduino AG. Es handelt sich um eine unabhängige Entwicklung und wird von den genannten Marken weder gesponsert noch unterstützt oder autorisiert. Alle verwendeten Markennamen und Warenzeichen sind Eigentum ihrer jeweiligen Inhaber und dienen hier lediglich Referenz- oder Vergleichszwecken.
 
 
 ** 🇬🇧 **
 Raspino is a registered trademark. Use of the name is subject to our trademark guidelines.
 
-⚠️ Important Notice (Disclaimer): The Raspino Open-Source Initiative and its repositories are not affiliated with the Raspberry Pi Foundation or Arduino AG. This is an independent development and is neither sponsored, endorsed, nor authorized by the aforementioned brands. All brand names and trademarks used are the property of their respective owners and are used here solely for reference or comparison purposes.
+⚠️ Important Notice (Disclaimer):  
+The software is provided "as is" and without any express or implied warranty. Use of the code and hardware controls is entirely at your own risk.
+
+The Raspino Open-Source Initiative and its repositories are not affiliated with the Raspberry Pi Foundation or Arduino AG. This is an independent development and is neither sponsored, endorsed, nor authorized by the aforementioned brands. All brand names and trademarks used are the property of their respective owners and are used here solely for reference or comparison purposes.
