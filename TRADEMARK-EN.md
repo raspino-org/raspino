@@ -1,28 +1,36 @@
-# Trademark Policy for Raspino
+## Trademark and Project Protection (Trademark Notice)
 
-This project is and will remain 100% open source. The source code is licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)**.
+**Raspino Project**
 
-The open-source license grants you extensive rights to use, modify, and distribute the source code. However, in accordance with Section 6 of the Apache License 2.0, it does **not grant you any rights to our registered trademark or logo**.
+The underlying repositories of the initiative and their source code are licensed under the **GNU General Public License v3.0 (GPLv3)**. This grants you the right to freely use, modify, fork, and distribute the code—provided your modifications also remain open source under the GPLv3.
 
 ---
 
-## 1. What is protected
-The name **"Raspino"** and the official project logo are legally protected trademarks.
+⚠️ **IMPORTANT TRADEMARK NOTICE**
 
-## 2. The key rule for forks
-You are free to fork, copy, and modify this project's code at any time. However, if you publicly distribute a **modified version** of the code or offer it as a service of your own, the following applies:
+The open-source license (GPLv3) grants you rights to the source code, but **no rights to the trademarks, logos, or visual branding** of the project.
 
-*   **Mandatory renaming:** You **must** give your project a new, unique name. The name "Raspino" must not be included in the product name.
-*   **Logo removal:** The official Raspino logo must be removed from the user interface and documentation.
-*   **No risk of confusion:** Users must not be led to believe that your modified version is the official Raspino project, or that it is operated or officially supported by us.
+The term **"Raspino"** and the associated logos, designs, and symbols are registered trademarks of Kay Donau (copyright and trademark holder).
 
-*Permitted example:* "Fork Project X – based on Raspino source code".
-*Prohibited example:* "Raspino Extended" or "Raspino for [Platform]".
+### What is allowed (Do's):
 
-## 3. Permitted use of the name
-You do not need our permission to:
-*   Truthfully state that your own software or hardware is compatible with Raspino (e.g., "Compatible with Raspino"). *   Reporting on Raspino in blogs, tutorials, videos, books, or presentations, or using the name for educational purposes.
-*   Mirroring or redistributing the project's original, unmodified code.
+* You may adapt, extend, and modify the source code for your own purposes. 
 
-## 4. Contact
-If you have questions regarding the use of the name or wish to request an exception, you can reach us at: **dev@raspino.org**.
+* You may fork the project to implement your own ideas.
+
+* You may truthfully state in your documentation that your project is based on the Raspino project code (e.g., "Based on the Raspino project's GPIO drivers").
+
+### What is NOT allowed (Don'ts):
+
+* You may not publish, distribute, or promote your own forks, modified versions, or hardware bundles based on it **under the name "Raspino"** or deceptively similar names.
+
+* If you fundamentally change the code or distribute it independently, you must rename (rebrand) the project.
+
+* You may not use the protected logos, web assets, design, or the name "Raspino" for commercial purposes or advertising without the express written permission of Kay Donau.
+
+
+### What is NOT allowed (Don'ts):
+
+* You may not publish, distribute, or promote your own forks, modified versions, or hardware bundles based on it **under the name "Raspino"** or deceptively similar names.  * End users must never be led to believe that your modified version is an "official" version of the Raspino project or is endorsed by it.
+
+--- For questions regarding the use of the name or for exceptions, please contact: **dev@raspino.org**
