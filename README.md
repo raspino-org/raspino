@@ -1,4 +1,4 @@
-<div align="center"><a herf="https://raspino.org">
+<div align="center"><a href="https://raspino.org">
   <img src="/resources/images/raspino.png" alt="Raspino Logo" width="260"></a>
 </div>
 <br>  
