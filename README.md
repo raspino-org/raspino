@@ -40,8 +40,8 @@ Raspino ist eine zum Schutz angemeldete Marke und gehört der Community. Die Ver
 
 ⚠️ Wichtige Hinweise (Haftungsausschluss):
 Die Bereitstellung der Software erfolgt "wie besehen" (as is) und ohne jegliche ausdrückliche oder implizite Gewährleistung. Die Nutzung des Codes und der Hardware-Ansteuerungen erfolgt vollständig auf eigene Gefahr.  
-  
-Die Raspino  Open-Source Initiative und seine Repositories steht in keiner Verbindung zur Raspberry Pi Foundation oder Arduino AG. Es handelt sich um eine unabhängige Entwicklung und wird von den genannten Marken weder gesponsert noch unterstützt oder autorisiert. Alle verwendeten Markennamen und Warenzeichen sind Eigentum ihrer jeweiligen Inhaber und dienen hier lediglich Referenz- oder Vergleichszwecken.
+
+Die Raspino Open-Source-Initiative und ihre Repositories stehen in keiner Verbindung zur Raspberry Pi Foundation oder Arduino AG. Es handelt sich um eine unabhängige Entwicklung, die von den genannten Marken weder gesponsert noch unterstützt oder autorisiert wird. 
 
 
 ** 🇬🇧 **
