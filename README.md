@@ -36,7 +36,7 @@ Raspino provides the framework for our open-source repositories on GitHub. We ma
 
 ## ⚖️ Disclaimer
 ** 🇩🇪 **
-Raspino ist eine eingetragene Marke. Die Verwendung des Namens unterliegt unseren Markenrichtlinien.
+Raspino ist eine zum Schutz angemeldete Marke und gehört der Community. Die Verwendung des Namens unterliegt unseren Markenrichtlinien.  
 
 ⚠️ Wichtige Hinweise (Haftungsausschluss):
 Die Bereitstellung der Software erfolgt "wie besehen" (as is) und ohne jegliche ausdrückliche oder implizite Gewährleistung. Die Nutzung des Codes und der Hardware-Ansteuerungen erfolgt vollständig auf eigene Gefahr.  
@@ -45,7 +45,7 @@ Die Raspino  Open-Source Initiative und seine Repositories steht in keiner Verbi
 
 
 ** 🇬🇧 **
-Raspino is a registered trademark. Use of the name is subject to our trademark guidelines.
+Raspino is a pending trademark and belongs to the community. Any use of the name is subject to our trademark guidelines.  
 
 ⚠️ Important Notice (Disclaimer):  
 The software is provided "as is" and without any express or implied warranty. Use of the code and hardware controls is entirely at your own risk.
