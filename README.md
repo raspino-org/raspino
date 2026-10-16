@@ -16,22 +16,16 @@ Raspino provides the framework for our open-source repositories on GitHub. We ma
 ---
 
 ## 📚 Raspino Repositories
-**Public**
-- <a href="https://github.com/dsmurph/webpi">WebPi</a>  
+**Public**  
 - <a href="https://github.com/dsmurph/gpiodWrap">gpiodWrap</a>  
 - <a href="https://github.com/dsmurph/mcp23017" alt="mcp23017">mcp23017</a>
 
-**Coming soon** 
-- <a href="https://github.com/dsmurph/gpiov2">gpioV2</a>
-- <a href="https://github.com/dsmurph/spotipi">JaroliftPi</a>
-- <a href="https://github.com/dsmurph/spotipi">Spotipi</a>  
-- <a href="https://github.com/dsmurph/garagepi">Garagepi</a>  
-- <a href="https://github.com/dsmurph/radiopi">Radiopi</a>  
-- <a href="https://github.com/dsmurph/marstekpi">Marstekpi</a>  
-- <a href="https://github.com/dsmurph/smartctpi">Smartctpi</a>  
-- <a href="https://github.com/dsmurph/sysmonitorpi">Sysmonitorpi</a>  
-- <a href="https://github.com/dsmurph/mbscannerpiradiopi">Mbscannerpi</a>
-
+**Comming soon**  
+- RaspinoCore
+- gpioWrapV1
+- gpioV2
+- gpioV1
+  
 ---
 
 ## ⚖️ Disclaimer
