@@ -5,13 +5,12 @@
 
 🇩🇪 **C++ auf dem Raspberry Pi, so einfach wie Arduino**
 
-Raspino bildet den Rahmen für unsere Open-Source-Repositories auf GitHub. Wir machen die hardwarenahe Programmierung mit C++ auf dem Raspberry Pi so unkompliziert, direkt und zugänglich, wie du es aus der Mikrocontroller-Welt gewohnt bist.  
-
+Raspino bildet den Rahmen für unsere Open-Source-Repositories auf GitHub. Wir machen die hardwarenahe Programmierung mit C++ auf dem Raspberry Pi so unkompliziert, zugänglich und direkt.
 
 🇬🇧 **C++ on the Raspberry Pi, as easy as Arduino**  
 
 
-Raspino provides the framework for our open-source repositories on GitHub. We make low-level programming with C++ on the Raspberry Pi as straightforward, direct, and accessible as you're used to from the microcontroller world.
+Raspino provides the framework for our open-source repositories on GitHub. We make low-level programming with C++ on the Raspberry Pi as straightforward, accessible and direct.
 
 ---
 
