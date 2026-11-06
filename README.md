@@ -13,6 +13,19 @@ The result is direct, safe, and predictable access to the hardware registers in 
 I look forward to hearing your opinions and suggestions.
 
 ---
+**gpiod vs esp32**
+
+No, it wasn’t a case of working against each other; it was a case of working together.
+I’ve conducted a few tests and would like to share them with you.  
+Test setup: an ESP32 sends a signal—with a period of one microsecond—to an event line on my Raspberry Pi 5.  
+
+The `gpioWrap` callback then forwards these edges to a pin configured as an output. The offset between the two oscilloscope channels (monitoring the ESP32 and the Pi 5 output) is 23 microseconds.  
+
+To make things a bit more interesting, I also maxed out `stress-ng --cpu` across all cores. There is no jitter and no change in the offset.  
+
+Take a look at the images—the results are fantastic.
+
+---
 🇩🇪 **C++ auf dem Raspberry Pi, so einfach wie Arduino**
 
 Raspino bildet den Rahmen für unsere Open-Source-Repositories auf GitHub. Wir machen die hardwarenahe Programmierung mit C++ auf dem Raspberry Pi unkompliziert, zugänglich und direkt.
