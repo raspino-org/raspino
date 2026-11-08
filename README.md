@@ -27,9 +27,8 @@ The watchdog is now completely inactive when signal handling is disabled.  But i
 
 <p>Without a signal handler, the GPIO lines cannot be reset to the safe input state in the event of a hard termination.</p>
 <br>
-<div align="center">
-  <a href="https://github.com/raspino-org/gpiodWrapV1>**gpiodWrapV1 [0.1.2]**</a>
-    </div>
+<div align="center"><a href="https://github.com/raspino-org/gpiodWrapV1">**gpiodWrapV1 [0.1.2]**</a>
+</div>
 <br>
 
 ---
