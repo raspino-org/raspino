@@ -3,6 +3,33 @@
 </div>
 <br>  
 
+---
+🚨 gpioWrapV1 [v0.1.2] — Hotfix & Stability Patch
+
+A logic error in the `while` loop of the watchdog has been fixed. The thread was not correctly linked to its running flag, which caused programs that normally terminated to hang at the end.
+
+The main thread and watchdog are now properly synchronized. It is now system-wide impossible for both instances to perform cleanup simultaneously or sequentially.
+
+
+The watchdog is now completely inactive when signal handling is disabled.  But it is prepared for future versions to take on further monitoring tasks and will then be active by default.</p>
+
+<br>
+
+<h4>Constructor Structure:</h4>
+
+<p>If a program runs to completion, the destructor deactivates the watchdog in a controlled manner and initiates cleanup.</p>
+
+<p>If the program is hard-canceled, the watchdog intercepts the signal, immediately puts all lines into the safe "Safe-by-Default" state, and cleanly returns the signal to the operating system via POSIX "raise()" "^C".</p>
+
+<br>
+
+<h4>Important Note:</h4>
+
+<p>Without a signal handler, the GPIO lines cannot be reset to the safe input state in the event of a hard termination.</p>
+
+
+
+---
 📢 gpiodWrapV1 [v0.1.0] — Official Release
 
 Our new flagship, <a href="https://github.com/raspino-org/gpiodWrapV1">gpioWrapV1</a> [v0.1.0], is now officially available in its inaugural version. While we continue to develop gpiodWrap [v2.0] in parallel, V1 offers a powerful preview of the architectural direction we are heading.
