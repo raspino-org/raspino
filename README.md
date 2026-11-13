@@ -4,6 +4,32 @@
 <br>  
 
 ---
+📣 gpiodWrapV1 [0.1.2] 2026-11-08
+
+Hotfix & Stability Patch for Thread Synchronization and Lifecycle
+
+Today's focus: Constructor, Destructor, Signal Handling, and the Watchdog Thread.
+
+Fixed
+
+Watchdog Thread (Program Termination Blockage Resolved): A logic error in the watchdog's while loop has been fixed. The thread was not correctly linked to its running flag, causing programs that normally terminated to hang in the background at the end of `main()`.
+
+Race Condition on Termination Fixed: The main thread (destructor) and background thread (watchdog) are now properly synchronized. It is now system-wide impossible for both instances to execute `closeChip()` simultaneously or sequentially. This completely eliminates the duplicate execution of the cleanup logic.
+
+Optimized
+
+Constructor Structure: The watchdog thread is now completely inactive when signal handling is disabled.  Future versions are planned to allow the watchdog to take on additional monitoring tasks and be active by default.
+
+Destructor & Signal Lifecycle:
+
+Scenario A (Regular Termination): If a program runs to completion, the destructor deactivates the watchdog in a controlled manner and executes `closeChip()` (safe-by-default).
+
+Scenario B (Abort via Ctrl+C): If the program is hard-terminated, the watchdog intercepts the signal, immediately puts all lines into a safe state (safe-by-default), and cleanly returns the signal to the operating system via POSIX `raise()` (`^C`).
+
+Important Note: Without a signal handler, the GPIO lines cannot be reset to a safe input state during a hard termination.  
+
+<br>
+---
 🚨 gpioWrapV1 [v0.1.2] — Hotfix & Stability Patch
 
 A logic error in the `while` loop of the watchdog has been fixed. The thread was not correctly linked to its running flag, which caused programs that normally terminated to hang at the end.
